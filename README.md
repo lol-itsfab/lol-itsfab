@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Fabian 👋
 
-<!--
-**lol-itsfab/lol-itsfab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at Georgia Tech.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### FPGA Matrix Multiplier Accelerator
+[View Project](https://github.com/lol-itsfab/fpga-matrix-multiplier-accelerator)
+
+- 8×8 matrix multiplication accelerator
+- Reduced computation from 512 cycles to 64 cycles
+- ~2× faster than ARM HPS implementation
+
+### RV32I Single-Cycle Processor
+[View Project](https://github.com/lol-itsfab/rv32i-single-cycle-processor)
